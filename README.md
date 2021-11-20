@@ -17,4 +17,4 @@ For better expericence use this python code under python 2.7 environment.
 # ANTIVIRUS TEST
 ![alt_text-here](/images/virustotal.PNG)
 
-![alt_text-here](/images/virustotal1.PNG)
+![github-small](/images/virustotal1.PNG)
